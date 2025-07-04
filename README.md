@@ -10,7 +10,7 @@
 ---
 
 🌟 **About Me**
-- 🎓 Final-year B.Tech student in Computer Science & Engineering
+- 🎓 B.Tech student in Computer Science & Engineering
 - 🔍 Passionate about transforming data into actionable insights
 - 📊 Experienced in **EDA, ML modeling**, and **data visualization**
 - 💻 Skilled in **Python, SQL, Pandas, Scikit-learn**, and **Power BI**
