@@ -22,7 +22,7 @@
 - **Languages**: Python, SQL  
 - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 - **ML Techniques**: Regression, Classification, Random Forest, CNN  
-- **Tools**: Jupyter, Google Colab, Anaconda, PyCharm, Streamlit  
+- **Tools**: Jupyter Notebook, Google Colab, Anaconda, PyCharm, Streamlit  
 - **Data Viz**: Power BI, Matplotlib, Seaborn  
 - **Other**: EDA, Feature Engineering, Web Scraping, Model Evaluation
 
